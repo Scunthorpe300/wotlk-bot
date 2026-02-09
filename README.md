@@ -3,6 +3,11 @@
 * Works on linux, through lutris and proton
 * Could work on bottles with minimal changes
 
+Setup
+* Make a macro named "test1" or change sourcecode to use another macro name.
+* Select profile, or click checkboxes for what you want, and engage capslock.
+
+
 Core Functionality
 
     Out-of-Process Architecture: Reads and writes game memory externally without injection
@@ -52,6 +57,8 @@ works best on gcc with x11, but has been tested on llvm
 
 While not entirely complete, this is as far as I want to go with it. Source code posted in hopes that (you) enjoy it as much as I have.
 Make pull requests if you want, good stuff ill merge sure!
+    
+    
     Also: Sandbox your proton whenever running wow private servers they can run anything on your computer, protect yourself!
     
 
