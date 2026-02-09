@@ -48,6 +48,7 @@ include_directories(
         ${IMGUI_DIR}/misc/cpp
         ${OPENGL_INCLUDE_DIRS}
         ${LIBAO_INCLUDE_DIR}
+        arraydatabase
 )
 
 set(SOURCES
