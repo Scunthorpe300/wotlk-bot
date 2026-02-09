@@ -36,6 +36,12 @@ Automation
     Heal Bot: Intelligent healing automation for group/raid content
     Fishing bot: Fishing!
     
+Servers tested on
+    Warmane, Whitemane
+    Ascension (Bronzebeard),
+    
+    Should be compatible with all 3.3.5a 123450 clients and mods.
+    
 Compiling
 
 made with clion, left profiles in for release/debug builds but command line cmake should work fine too
