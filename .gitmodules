@@ -1,0 +1,15 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "xdotool"]
+	path = xdotool
+	url = https://github.com/jordansissel/xdotool.git
+[submodule "arraydatabase"]
+	path = arraydatabase
+	url = https://github.com/Scunthorpe300/arraydatabase.git
